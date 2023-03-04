@@ -1,0 +1,14 @@
+{
+  "tests": [
+    {
+      "name": "HTML Structure ",
+      "setup": "",
+      "run": "ruby -Ilib:test test/test_html_boilerplate.rb -p",
+      "input": "",
+      "output": "",
+      "comparison": "included",
+      "timeout": 3,
+      "points": null
+    }
+  ]
+}
