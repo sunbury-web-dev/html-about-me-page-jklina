@@ -2,7 +2,7 @@
   "tests": [
     {
       "name": "HTML Structure ",
-      "setup": "gem install bundler && bundle",
+      "setup": "gem install bundler --user-install && bundle",
       "run": "rake test",
       "input": "",
       "output": "",
