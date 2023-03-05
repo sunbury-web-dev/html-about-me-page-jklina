@@ -2,7 +2,7 @@
   "tests": [
     {
       "name": "HTML Structure ",
-      "setup": "",
+      "setup": "bundle",
       "run": "rake test",
       "input": "",
       "output": "",
