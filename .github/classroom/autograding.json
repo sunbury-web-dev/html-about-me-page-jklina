@@ -3,7 +3,7 @@
     {
       "name": "HTML Structure ",
       "setup": "",
-      "run": "ruby -Ilib:test test/test_html_boilerplate.rb -p",
+      "run": "rake test",
       "input": "",
       "output": "",
       "comparison": "included",
